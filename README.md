@@ -1,7 +1,7 @@
 # Rover: MIE444 Mechatronics Principles Project
 
 ## Project Overview
-This repository contains the code and for the **Roadrunner Rover**, developed as part of the **MIE444: Mechatronics Principles** course. The project involved designing and building a rover capable of navigating a maze, identifying a loading zone, picking up a load, and delivering it to a designated drop-off point. 
+This repository contains the code developed as part of the **MIE444: Mechatronics Principles** course. The project involved designing and building a rover capable of navigating a maze, identifying a loading zone, picking up a load, and delivering it to a designated drop-off point. 
 
 ---
 
@@ -30,6 +30,6 @@ This repository contains the code and for the **Roadrunner Rover**, developed as
 ---
 
 ## Video Highlights
-Check out the highlights of our project: [Insert YouTube Link]
+Check out the highlights of our project: https://www.youtube.com/watch?v=i4Io34JAZaQ
 
 ---
